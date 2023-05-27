@@ -145,8 +145,7 @@ plt.show()
 
 ## Data Visualization using seaborn
 ### 1.LinePlot
-![image](https://github.com/SASIDEVIvenaram/Ex-08-Data-Visualization-/assets/118707332/24b0224f-8b42-48b3-a13f-6705d1978bf9)
-
+![image](https://github.com/SASIDEVIvenaram/Ex-08-Data-Visualization-/assets/118707332/c6a5cad9-6d63-4b2c-9583-505226f21d61)
 ![image](https://github.com/SASIDEVIvenaram/Ex-08-Data-Visualization-/assets/118707332/2f57a08e-c9cc-4ac2-be59-98739061f859)
 
 
